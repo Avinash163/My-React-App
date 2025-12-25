@@ -1,0 +1,6 @@
+{
+    "homepage": "https://github.com/Avinash163/My-React-App",
+    "name": "My-app",
+    "deploy": "gh-pages-d list"
+
+}
